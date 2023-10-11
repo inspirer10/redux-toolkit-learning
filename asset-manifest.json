@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/redux-toolkit-learning/static/css/main.fb239867.css",
-    "main.js": "/redux-toolkit-learning/static/js/main.a9879876.js",
+    "main.css": "/redux-toolkit-learning/static/css/main.b37155ae.css",
+    "main.js": "/redux-toolkit-learning/static/js/main.d7494fd9.js",
     "static/media/photo2.png": "/redux-toolkit-learning/static/media/photo2.9ab567c7a5b48941b457.png",
     "index.html": "/redux-toolkit-learning/index.html",
-    "main.fb239867.css.map": "/redux-toolkit-learning/static/css/main.fb239867.css.map",
-    "main.a9879876.js.map": "/redux-toolkit-learning/static/js/main.a9879876.js.map"
+    "main.b37155ae.css.map": "/redux-toolkit-learning/static/css/main.b37155ae.css.map",
+    "main.d7494fd9.js.map": "/redux-toolkit-learning/static/js/main.d7494fd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb239867.css",
-    "static/js/main.a9879876.js"
+    "static/css/main.b37155ae.css",
+    "static/js/main.d7494fd9.js"
   ]
 }
